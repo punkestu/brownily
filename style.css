@@ -1,0 +1,16 @@
+@font-face {
+  font-family: sweetPurple;
+  src: url(/assets/sweet\ purple.ttf);
+}
+
+.font-sweetPurple {
+  font-family: sweetPurple;
+}
+
+.bg-main{
+  background: #773E1D;
+}
+
+.choco{
+  background-color: #461A00;
+}
